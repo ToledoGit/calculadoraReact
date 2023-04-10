@@ -1,3 +1,7 @@
+Desafio DIO - Calculadora com React
+
+Neste projeto, feito juntamente com as aulas da Digital Innovation One (DIO), foi criado uma calculadora utilizando principios básicos de React, aprendendo a nomenclatura e sintaxe utilizadas.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
